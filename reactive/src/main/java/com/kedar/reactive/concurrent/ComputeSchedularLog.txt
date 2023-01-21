@@ -1,0 +1,21 @@
+/Users/kedarerande/Library/Java/JavaVirtualMachines/openjdk-18.0.2.1/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=54822:/Applications/IntelliJ IDEA CE.app/Contents/bin -Dfile.encoding=UTF-8 -classpath /Applications/Kedar-Projects/reactiveprogramming/reactive/target/classes:/Users/kedarerande/.m2/repository/io/reactivex/rxjava3/rxjava/3.0.0-RC9/rxjava-3.0.0-RC9.jar:/Users/kedarerande/.m2/repository/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3.jar com.kedar.reactive.concurrent.CustomSchedular
+Thread name for computation  pool-1-thread-2  for value  Hi
+Thread name for computation  pool-1-thread-1  for value  Hi
+Thread name for computation  pool-1-thread-1  for value  Running
+Thread name for computation  pool-1-thread-2  for value  Running
+Thread name for computation  pool-1-thread-2  for value  Thread
+Thread name for computation  pool-1-thread-1  for value  Thread
+Thread name for computation  pool-1-thread-1  for value  Hi
+Thread name for computation  pool-1-thread-2  for value  Hi
+Thread name for computation  pool-1-thread-1  for value  Running
+Thread name for computation  pool-1-thread-2  for value  Running
+Thread name for computation  pool-1-thread-2  for value  Thread
+Thread name for computation  pool-1-thread-1  for value  Thread
+Thread name for computation  pool-1-thread-2  for value  Hi
+Thread name for computation  pool-1-thread-1  for value  Hi
+Thread name for computation  pool-1-thread-1  for value  Running
+Thread name for computation  pool-1-thread-2  for value  Running
+Thread name for computation  pool-1-thread-1  for value  Thread
+Thread name for computation  pool-1-thread-2  for value  Thread
+
+Process finished with exit code 0

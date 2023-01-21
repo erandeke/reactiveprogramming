@@ -1,0 +1,30 @@
+/Users/kedarerande/Library/Java/JavaVirtualMachines/openjdk-18.0.2.1/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=54717:/Applications/IntelliJ IDEA CE.app/Contents/bin -Dfile.encoding=UTF-8 -classpath /Applications/Kedar-Projects/reactiveprogramming/reactive/target/classes:/Users/kedarerande/.m2/repository/io/reactivex/rxjava3/rxjava/3.0.0-RC9/rxjava-3.0.0-RC9.jar:/Users/kedarerande/.m2/repository/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3.jar com.kedar.reactive.concurrent.ComputationalSchedular
+Thread name for computation  RxComputationThreadPool-7  for value  Take
+Thread name for computation  RxComputationThreadPool-5  for value  Take
+Thread name for computation  RxComputationThreadPool-1  for value  Take
+Thread name for computation  RxComputationThreadPool-6  for value  Take
+Thread name for computation  RxComputationThreadPool-3  for value  Take
+Thread name for computation  RxComputationThreadPool-2  for value  Take
+Thread name for computation  RxComputationThreadPool-8  for value  Take
+Thread name for computation  RxComputationThreadPool-4  for value  Take
+Thread name for computation  RxComputationThreadPool-2  for value  Home
+Thread name for computation  RxComputationThreadPool-3  for value  Home
+Thread name for computation  RxComputationThreadPool-5  for value  Home
+Thread name for computation  RxComputationThreadPool-6  for value  Home
+Thread name for computation  RxComputationThreadPool-1  for value  Home
+Thread name for computation  RxComputationThreadPool-4  for value  Home
+Thread name for computation  RxComputationThreadPool-7  for value  Home
+Thread name for computation  RxComputationThreadPool-8  for value  Home
+Thread name for computation  RxComputationThreadPool-6  for value  Salary
+Thread name for computation  RxComputationThreadPool-1  for value  Salary
+Thread name for computation  RxComputationThreadPool-3  for value  Salary
+Thread name for computation  RxComputationThreadPool-5  for value  Salary
+Thread name for computation  RxComputationThreadPool-2  for value  Salary
+Thread name for computation  RxComputationThreadPool-4  for value  Salary
+Thread name for computation  RxComputationThreadPool-7  for value  Salary
+Thread name for computation  RxComputationThreadPool-8  for value  Salary
+Thread name for computation  RxComputationThreadPool-1  for value  Take
+Thread name for computation  RxComputationThreadPool-1  for value  Home
+Thread name for computation  RxComputationThreadPool-1  for value  Salary
+
+Process finished with exit code 0
