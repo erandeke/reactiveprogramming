@@ -17,8 +17,7 @@ public class RxColdObservables {
         Observable<Integer> ob = Observable.fromIterable(list);
 
         ob.subscribe(System.out::println);
-
-        list = getData(list);
+        getData(list);
 
         ob.subscribe(System.out::println);
 

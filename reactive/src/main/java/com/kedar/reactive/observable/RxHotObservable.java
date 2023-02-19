@@ -19,11 +19,11 @@ public class RxHotObservable {
 
         observable.subscribe(System.out::println);
 
-        Thread.sleep(1000);
+        Thread.sleep(10000);
 
         observable.subscribe(System.out::println);
 
-        Thread.sleep(1000);
+        Thread.sleep(100000);
 
 
     }

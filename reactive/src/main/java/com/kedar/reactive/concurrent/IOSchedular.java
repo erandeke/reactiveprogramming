@@ -11,6 +11,7 @@ public class IOSchedular {
     public static void main(String[] args) throws InterruptedException {
         Observable<String> src = Observable.just("Take", "Home", "Salary")
                 .subscribeOn(Schedulers.io()); //here number of threads depends on no of observer
+        //each thread per observer
 
         src.subscribe(e -> compute(e));
         src.subscribe(e -> compute(e));

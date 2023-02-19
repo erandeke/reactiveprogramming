@@ -8,8 +8,8 @@ import io.reactivex.rxjava3.core.Observable;
 public class RxObserverCreation {
     public static void main(String[] args) {
 
-        Observable<String> observ = Observable.just("Santo","Adinath","Sharvee");
+     Observable<String> obs = Observable.just("Hi","Kedar","How","Are","You");
 
-        observ.subscribe(i-> System.out.println(i));
+       obs.subscribe(System.out::println);
     }
 }
